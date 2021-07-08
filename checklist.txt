@@ -1,0 +1,14 @@
+[ ] HTML
+[ ] place h1 inside header
+[ ] add h2 element
+[ ] place p inside main element
+[ ] CSS
+[ ] create css stylesheet
+[ ] give header a dark background with light text
+[ ] center text in header
+[ ] give main a light grey background
+[ ] add background image (provided record.png)
+[ ] fill the body with repeated image
+[ ] body margin of 0
+[ ] main padding of 1em
+[ ] use classes for styling
