@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  background-image: url("record.png");
+  background-repeat: repeat;
+}
+
 .header {
   background-color: #264653;
   color: #fff;
@@ -6,4 +12,5 @@
 
 .main {
   background-color: lightgrey;
+  padding: 1em;
 }

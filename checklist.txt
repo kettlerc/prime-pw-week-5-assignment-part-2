@@ -7,8 +7,8 @@
   [X] give header a dark background with light text
   [X] center text in header
   [X] give main a light grey background
-  [ ] add background image (provided record.png)
-  [ ] fill the body with repeated image
-  [ ] body margin of 0
-  [ ] main padding of 1em
-  [ ] use classes for styling
+  [X] add background image (provided record.png)
+  [X] fill the body with repeated image
+  [X] body margin of 0
+  [X] main padding of 1em
+  [X] use classes for styling
