@@ -3,10 +3,10 @@
   [X] add h2 element
   [X] place p inside main element
 [ ] CSS
-  [ ] create css stylesheet
-  [ ] give header a dark background with light text
-  [ ] center text in header
-  [ ] give main a light grey background
+  [X] create css stylesheet
+  [X] give header a dark background with light text
+  [X] center text in header
+  [X] give main a light grey background
   [ ] add background image (provided record.png)
   [ ] fill the body with repeated image
   [ ] body margin of 0
